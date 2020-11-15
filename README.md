@@ -1,4 +1,4 @@
-# Python Data Structures and algorithms
+# Python Data Structures and Algorithms
 
 This projects contains python implementation of the following data structures:
 
